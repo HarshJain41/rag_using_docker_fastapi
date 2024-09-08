@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+rag_assignment
+
+# Ignore the faiss and files folders
+faiss db folder
+files folder
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore environment variable and log files
+*.log
